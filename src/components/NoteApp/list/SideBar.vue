@@ -20,7 +20,7 @@ const store = useNoteStore()
             :icon ="`notes`"
             :type ="`list`"
         />
-        <h4>Test CI-CD 1234</h4>
+        <h4>Test CI-CD</h4>
     </div>
 </template>
 

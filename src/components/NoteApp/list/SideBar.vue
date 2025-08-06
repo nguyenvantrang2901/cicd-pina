@@ -21,6 +21,7 @@ const store = useNoteStore()
             :type ="`list`"
         />
         <h4>Test CI-CD</h4>
+        <h4>Nguyen Thanh Nam</h4>
     </div>
 </template>
 

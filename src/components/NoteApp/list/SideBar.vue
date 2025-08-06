@@ -22,6 +22,7 @@ const store = useNoteStore()
         />
         <h4>Test CI-CD</h4>
         <h4>Nguyen Thanh Nam</h4>
+        <h5>Thái Dúi</h5>
     </div>
 </template>
 
